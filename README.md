@@ -41,3 +41,7 @@ Um cluster é um conjunto de computadores interconectados que trabalham em conju
 Docker Swarm é uma funcionalidade do Docker que oferece orquestração de containers, permitindo que múltiplos containers sejam gerenciados de forma eficiente em um cluster.
 
 ![SWARM](imagem/swarm.png)
+
+### LINKS ÚTEIS
+
+[Slides](https://docs.google.com/presentation/d/1rbO_4NZBPh-nzRfuqZyz7bfjfKgNAzLn9OtB9raRAKo/edit#slide=id.p1)
